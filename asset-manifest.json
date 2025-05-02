@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolio_2025_oxQuiz/static/css/main.0d137444.css",
+    "main.js": "/portfolio_2025_oxQuiz/static/js/main.52d3b4ac.js",
+    "index.html": "/portfolio_2025_oxQuiz/index.html",
+    "main.0d137444.css.map": "/portfolio_2025_oxQuiz/static/css/main.0d137444.css.map",
+    "main.52d3b4ac.js.map": "/portfolio_2025_oxQuiz/static/js/main.52d3b4ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d137444.css",
+    "static/js/main.52d3b4ac.js"
+  ]
+}
